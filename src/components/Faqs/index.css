@@ -1,0 +1,32 @@
+/* Write your code here. */
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100%;
+  width: 100vw;
+  background-color: #f1f5f8;
+}
+
+.faqs-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90%;
+  width: 90vw;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 60px;
+  margin-right: 60px;
+  padding: 30px;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 48px;
+  color: #cb8805;
+}
